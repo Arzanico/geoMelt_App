@@ -15,7 +15,8 @@ http://otrageoapp.herokuapp.com/
 
 Por el momento soporta la subidad de archivos tipo KML y devuelve un Json. Tenga en cuenta que estamos realizando las primeras pruebas.
 
-Por cualquier consulta o sugerencia puede escribirnos a nclsarzani@gmail.com
+- THE WEB PAGE RELATED TO THIS PROJECT IS DOW -
+
 
 
 
